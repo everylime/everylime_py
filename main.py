@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5538649868:AAEhKN8FauGRwBlvNI2ZsclQxltxy9TrFlE')
+bot = telebot.TeleBot('sample_sample')
 
 
 @bot.message_handler(commands=['start'])  # запуск
